@@ -1,4 +1,3 @@
-# Momo-Fraud-detection
 # Momo Fraud Detection
 
 [![CI](https://github.com/ClarenceAtim/Momo-Fraud-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/ClarenceAtim/Momo-Fraud-detection/actions/workflows/ci.yml)
