@@ -10,5 +10,3 @@ A Mobile Money fraud detection API. Send one transaction, get a fraud probabilit
 
 - Health check: https://momo-fraud-detection-2wt5.onrender.com/health
 - Interactive docs: https://momo-fraud-detection-2wt5.onrender.com/docs
-
-Try it With curl:
