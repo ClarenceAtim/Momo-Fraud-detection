@@ -4,3 +4,5 @@ scikit-learn
 mlflow
 fastapi
 uvicorn
+pytest
+httpx
